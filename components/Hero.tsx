@@ -4,11 +4,11 @@ import { ArrowDown, MapPin, Calendar, Clock } from 'lucide-react';
 
 // cam on thuy dang vi da cho anh nha
 const CBN_IMAGES = [
-    "https://im.ge/i/anh1.eTuCW8",
-    "https://im.ge/i/anh2.eTuxoh",
-    "https://im.ge/i/anh3.eTuyO9",
-    "https://im.ge/i/anh4.eTuPzK",
-    "https://im.ge/i/anh5.eTum4z",
+"https://i.im.ge/2026/01/29/eTuCW8.anh1.jpeg",
+"https://i.im.ge/2026/01/29/eTuxoh.anh2.jpeg",
+"https://i.im.ge/2026/01/29/eTuyO9.anh3.jpeg",
+"https://i.im.ge/2026/01/29/eTuPzK.anh4.jpeg",
+"https://i.im.ge/2026/01/29/eTum4z.anh5.jpeg",
 ]
 
 const Hero: React.FC = () => {
