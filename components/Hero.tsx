@@ -1,13 +1,18 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowDown, MapPin, Calendar, Clock } from 'lucide-react';
+import anh1 from '../anh-cbn/anh1.jpg'
+import anh2 from '../anh-cbn/anh2.jpg'
+import anh3 from '../anh-cbn/anh3.jpg'
+import anh4 from '../anh-cbn/anh4.jpg'
+import anh5 from '../anh-cbn/anh5.jpg'
 
 // cam on thuy dang vi da cho anh nha
 const CBN_IMAGES = [
-    "../anh-cbn/anh1.jpg",
-    "../anh-cbn/anh2.jpg",
-    "../anh-cbn/anh3.jpg",
-    "../anh-cbn/anh4.jpg",
-    "../anh-cbn/anh5.jpg",
+    { anh1 },
+    { anh2 },
+    { anh3 },
+    { anh4 },
+    { anh5 },
 ]
 
 const Hero: React.FC = () => {
